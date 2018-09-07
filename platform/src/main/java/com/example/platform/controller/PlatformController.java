@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 @Controller
 @RequestMapping(value = "/user")
 public class PlatformController {
-
+//史鸿伟是沙雕
     @Resource
     private PlatformService platformService;
 
